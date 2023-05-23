@@ -11,11 +11,11 @@
    -  [Чек-листы](https://github.com/MaxJamal)
    -  [Mind maps](https://github.com/MaxJamal/mind_maps)
   
-- Коллекция в Postman 
-   -  [Pet_Friends ](https://github.com/MaxJamal)
+- Postman collection
+   -  [Pet_Friends ](https://github.com/MaxJamal/sf19)
 - Python
-   -  [Финальный проект по автоматизации тестирования ](https://github.com/MaxJamal/module28)
-   -  [«Тестирование сайта petfiriend Pytest +REST API»](https://github.com/MaxJamal)
+   -  [Automatic testing project](https://github.com/MaxJamal/module28)
+   -  [Testing web-site petfiriends (Pytest + REST API)](https://github.com/MaxJamal)
 
  
 
