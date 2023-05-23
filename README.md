@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![alt text](https://github.com/MaxJamal/MaxJamal/blob/main/QA.jpg.jpg?raw=true)
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/QA.jpg.jpg" align=”middle”>
 
 <!--
 **MaxJamal/MaxJamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
