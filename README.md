@@ -9,12 +9,12 @@
 ## Портфолио 
 - Тестовая документация
    -  [Чек-листы](https://github.com/MaxJamal)
-   -  [Mind maps](https://github.com/MaxJamal)
+   -  [Mind maps](https://github.com/MaxJamal/mind_maps)
   
 - Коллекция в Postman 
    -  [Pet_Friends ](https://github.com/MaxJamal)
 - Python
-   -  [Финальный проект по автоматизации тестирования ](https://github.com/MaxJamal)
+   -  [Финальный проект по автоматизации тестирования ](https://github.com/MaxJamal/module28)
    -  [«Тестирование сайта petfiriend Pytest +REST API»](https://github.com/MaxJamal)
 
  
