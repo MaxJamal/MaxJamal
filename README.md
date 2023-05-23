@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🐍
 
 <div align="center">
 <img src="https://github.com/MaxJamal/MaxJamal/blob/main/QA.jpg.jpg" align=”middle”>
