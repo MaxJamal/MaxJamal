@@ -6,9 +6,9 @@
 
 ## Welcome! I'm Max. This git about my studing to QA.
 
-## Портфолио 
-- Тестовая документация
-   -  [Чек-листы](https://github.com/MaxJamal)
+## Portfolio 
+- Test documentation
+   -  [Check-lists](https://github.com/MaxJamal)
    -  [Mind maps](https://github.com/MaxJamal/mind_maps)
   
 - Postman collection
@@ -19,7 +19,7 @@
 
  
 
-## Инструменты и технологии
+## Stack
 
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/Jira.png" alt="Jira" width="50" height="50" />
