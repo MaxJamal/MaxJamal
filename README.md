@@ -12,10 +12,11 @@
    -  [Mind maps](https://github.com/MaxJamal/mind_maps)
   
 - Postman collection
-   -  [Pet_Friends ](https://github.com/MaxJamal/sf19)
+   -  [Pet_Friends ](https://api.postman.com/collections/22119576-48cc92a8-5f00-4a3c-8529-255915bf46e3?access_key=PMAT-01H1BDDDXVB3JXS0VH359V8D0C)
+   -  [Pet_Store](https://api.postman.com/collections/22119576-c5b52af1-0962-41c3-b087-71d1a0cfb537?access_key=PMAT-01H1BDFJ8EPB00S43F7TT7X7G3)
 - Python
    -  [Automatic testing project](https://github.com/MaxJamal/module28)
-   -  [Testing web-site petfiriends (Pytest + REST API)](https://github.com/MaxJamal)
+   -  [Testing web-site petfiriends (Pytest + REST API)](https://github.com/MaxJamal/sf19)
 
  
 
