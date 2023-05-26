@@ -6,6 +6,8 @@
 
 ## Welcome! I'm Max. This git about my studing to QA.
 
+## My [CV](https://github.com/MaxJamal/MaxJamal/blob/main/CV%20Zhamaldinov%20M..pdf)
+
 ## Portfolio 
 - Test tasks
    - [Lifehacker Manual Testing](https://github.com/MaxJamal/lifehacker)
