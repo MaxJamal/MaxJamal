@@ -7,6 +7,10 @@
 ## Welcome! I'm Max. This git about my studing to QA.
 
 ## Portfolio 
+- Test tasks
+   - [Lifehacker Manual Testing](https://github.com/MaxJamal/lifehacker)
+   - [Tinkoff](https://github.com/MaxJamal/Tinkoff_QA)
+
 - Test documentation
    -  [Check-lists](https://github.com/MaxJamal)
    -  [Mind maps](https://github.com/MaxJamal/mind_maps)
