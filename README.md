@@ -30,12 +30,14 @@
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/Jira.png" alt="Jira" width="50" height="50" />
 </a>
 <a href="https://www.postman.com/">
-<img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/Postman.png" alt="Postman" width="50" height="50" />
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/Postman.png" alt="Postman" width="50" height="50" />
 </a>
 <a href="https://swagger.io/">
-<img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/swagger.png" alt="Swagger" width="50" height="50" />
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://www.python.org/">
-<img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/python.png" alt="Python" width="50" height="50" />
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/python.png" alt="Python" width="50" height="50" />
 </a>
-
+<a href="(https://www.jetbrains.com/pycharm/">
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/pycharm.png" alt="PyCharm" width="50" height="50" />
+</a>
