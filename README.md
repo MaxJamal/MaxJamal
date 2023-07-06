@@ -4,7 +4,7 @@
 <img src="https://github.com/MaxJamal/MaxJamal/blob/main/QA.jpg.jpg" width=50% height=50%>
 </div>
 
-## Welcome! I'm Max. This git about my studing to QA.
+## Welcome! I'm Max. This Repo about my studing to QA.
 
 ## My [CV](https://github.com/MaxJamal/MaxJamal/blob/main/CV%20Zhamaldinov%20M..pdf)
 
