@@ -29,8 +29,14 @@
 
 ## Stack
 
-<a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/MaxJamal/MaxJamal/blob/main/Jira.png" alt="Jira" width="50" height="50" />
+<a href="https://www.python.org/">
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/python.png" alt="Python" width="50" height="50" />
+</a>
+<a href="https://www.selenium.dev/">
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/Selenium.png" alt="Selenium" width="50" height="50" />
+</a>
+<a href="https://playwright.dev/python/">
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/playwright-logo.svg" alt="Playwright" width="50" height="50" />
 </a>
 <a href="https://www.postman.com/">
 <img src="https://github.com/MaxJamal/MaxJamal/blob/main/Postman.png" alt="Postman" width="50" height="50" />
@@ -38,12 +44,12 @@
 <a href="https://swagger.io/">
 <img src="https://github.com/MaxJamal/MaxJamal/blob/main/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
-<a href="https://www.python.org/">
-<img src="https://github.com/MaxJamal/MaxJamal/blob/main/python.png" alt="Python" width="50" height="50" />
+<a href="https://www.welldonecode.com/perfectpixel/">
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/PerfectPixel" alt="PerfectPixel" width="50" height="50" />
 </a>
-<a href="https://www.selenium.dev/">
-<img src="https://github.com/MaxJamal/MaxJamal/blob/main/Selenium.png" alt="Selenium" width="50" height="50" />
-</a>
-<a href="(https://www.jetbrains.com/pycharm/">
+<a href="https://www.jetbrains.com/pycharm/">
 <img src="https://github.com/MaxJamal/MaxJamal/blob/main/pycharm.png" alt="PyCharm" width="50" height="50" />
+</a>
+<a href="https://www.atlassian.com/software/jira">
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/Jira.png" alt="Jira" width="50" height="50" />
 </a>
