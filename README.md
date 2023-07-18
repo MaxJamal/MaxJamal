@@ -45,7 +45,7 @@
 <img src="https://github.com/MaxJamal/MaxJamal/blob/main/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://www.welldonecode.com/perfectpixel/">
-<img src="https://github.com/MaxJamal/MaxJamal/blob/main/PerfectPixel" alt="PerfectPixel" width="50" height="50" />
+<img src="https://github.com/MaxJamal/MaxJamal/blob/main/PerfectPixel.jpeg" alt="PerfectPixel" width="50" height="50" />
 </a>
 <a href="https://www.jetbrains.com/pycharm/">
 <img src="https://github.com/MaxJamal/MaxJamal/blob/main/pycharm.png" alt="PyCharm" width="50" height="50" />
