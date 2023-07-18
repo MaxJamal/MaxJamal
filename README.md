@@ -6,7 +6,7 @@
 
 ## Welcome! I'm Max. This Repo about my studing and work QA.
 
-## My [CV](https://github.com/MaxJamal/MaxJamal/blob/main/CV%20Zhamaldinov%20M..pdf)
+## My [CV](https://github.com/MaxJamal/MaxJamal/blob/main/M.%20Zhamaldinov.pdf)
 
 ## Portfolio 
 - Test tasks
